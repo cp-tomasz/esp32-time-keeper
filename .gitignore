@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+
+managed_components/
+
+# ESP-IDF generated files
+sdkconfig.old
+
+# VS Code local settings
+.vscode/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS files
+Thumbs.db
+.DS_Store
